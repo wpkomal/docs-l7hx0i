@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wpkomal.github.io/docs-l7hx0i/sitemap.xml
